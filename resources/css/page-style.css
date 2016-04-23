@@ -1,0 +1,30 @@
+/** Inicio.html */
+#body-content-img div{
+    width: 100%;
+    max-width: 100%;
+}
+
+#body-content-img div img{
+   width: 80%;
+   display: block;
+   margin: 0 auto;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+}
+
+/** modelado.html */
+.image-fit img{
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+/** contacto.html */
+.content-contacto {
+    background-image: url('../img/contacto_fondo.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
